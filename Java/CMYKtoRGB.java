@@ -1,5 +1,7 @@
 
-/* This program takes four command-line arguments for cyan, magenta, yellow, and black (in that order) and prints the red, green, and blue equivalents for the resulting color. */
+/* This program takes four command-line arguments for cyan, magenta, yellow, and black (in that order) and prints the red, green, and blue equivalents 
+ * for the resulting color. 
+ */
 
 public class CMYKtoRGB 
 {
