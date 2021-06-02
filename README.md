@@ -1,1 +1,1 @@
-# my-coding-festival
+# compsci-prog-purpose
